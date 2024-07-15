@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">JogFit</string>
-    <string name="GOOGLE_MAPS_API_KEY">AIzaSyAGZXHssA2obbgMQHsCB_JhbFtqeAYaqaE</string>
-    <string name="google_web_client_id">9146711123-8d8dnoambb2iojacskb9q60mdsevhri0.apps.googleusercontent.com</string>
+    <string name="GOOGLE_MAPS_API_KEY"></string>
+    <string name="google_web_client_id"></string>
     <string name="sign_in">Sign In</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
